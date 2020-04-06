@@ -1,5 +1,5 @@
 # mojavegl-palm
-MojaveGL 2D is an advanced high-performance graphics library designed for Palm OS 5 and Tapwave devices. The built-in Palm OS graphics APIs have very limited features and slow performance as most Palm OS devices do not have GPUs. MojaveGL is a framework and set of C++ classes that let you take your Palm OS games and apps to the next level.
+MojaveGL 2D is a high-performance graphics library designed for Palm OS 5 and Tapwave devices. The built-in Palm OS graphics APIs have very limited features and slow performance as most Palm OS devices do not have GPUs. MojaveGL is a framework and set of C++ classes that let you take your Palm OS games and apps to the next level.
 
 MojaveGL powers the advanced graphics features in the "Saguaro" project for Palm OS. For more information about the "Saguaro" project, please see: https://en.wikipedia.org/wiki/Saguaro_(Palm_OS)
 
